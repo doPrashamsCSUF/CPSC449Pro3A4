@@ -1,0 +1,7 @@
+[DATABASE]
+URL_USERS = 'sqlite+aiosqlite:///database/dbs/users/users.db'
+URL_GAMES_PRIMARY = 'sqlite+aiosqlite:///database/dbs/games/primary/mount/games.db'
+
+[REDIS]
+HOST = 'localhost'
+PORT = 6379
