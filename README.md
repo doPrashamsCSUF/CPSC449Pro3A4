@@ -1,10 +1,8 @@
-# 449wordleproject3
+# 449wordleproject- Assignment 4
 
 ### Group Members:
-##### Fenil Ketan Bhimani
-##### Parth Sharma
-##### Rakesh Singh
-##### Jarrod Leong
+##### Anusha Hadagali
+##### Prashams OD
 
 ## **Initializing Database & Start Service:**
 ##### copy 'wordleauth' into your nginx directory (/etc/nginx/sites-enabled/)
